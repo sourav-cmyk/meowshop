@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Headphones",
+    "description": "High-quality wireless headphones with noise cancellation.",
+    "price": 2000,
+    "category": "Electronics",
+    "img": "/images/wirlessheadphone.jpg",
+    "rating": 4.5,
+    "stock": 25
+  },
+  {
+    "id": 2,
+    "name": "Smart Watch",
+    "description": "Stylish smart watch with heart rate monitor and GPS.",
+    "price": 2500,
+    "category": "Electronics",
+    "img": "/images/smartwatch.jpg",
+    "rating": 4.2,
+    "stock": 15
+  },
+  {
+    "id": 3,
+    "name": "Leather Wallet",
+    "description": "Genuine leather wallet with multiple card slots.",
+    "price": 1400,
+    "category": "Accessories",
+    "img": "/images/leatherwallet.jpg",
+    "rating": 4.7,
+    "stock": 50
+  },
+  {
+    "id": 4,
+    "name": "Running Shoes",
+    "description": "Comfortable running shoes suitable for all terrains.",
+    "price": 1500,
+    "category": "Footwear",
+    "img": "/images/shoes.jpeg",
+    "rating": 4.4,
+    "stock": 30
+  },
+  {
+    "id": 5,
+    "name": "Sunglasses",
+    "description": "UV-protected stylish sunglasses for daily wear.",
+    "price": 1200,
+    "category": "Accessories",
+    "img": "/images/sunglass.jpeg",
+    "rating": 4.3,
+    "stock": 40
+  },
+  {
+    "id": 6,
+    "name": "Bluetooth Speaker",
+    "description": "Portable Bluetooth speaker with deep bass and long battery life.",
+    "price": 5000,
+    "category": "Electronics",
+    "img": "/images/speaker.jpg",
+    "rating": 4.6,
+    "stock": 20
+  }
+]
