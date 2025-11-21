@@ -3,6 +3,8 @@ import './App.css'
 import Navbar from './components/Navbar'
 import Hero from './components/Hero'
 import LatestGallery from './components/LatestGallery'
+import ProductCard from './components/ProductCard'
+import ProductList from './components/ProductList'
 
 
 function App() {
@@ -13,6 +15,8 @@ function App() {
       <Navbar></Navbar>
       <Hero></Hero>
       <LatestGallery></LatestGallery>
+      <ProductCard></ProductCard>
+      <ProductList></ProductList>
     </>
   )
 }
