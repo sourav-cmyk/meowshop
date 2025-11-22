@@ -30,8 +30,8 @@ export default function Hero() {
           </div>
           <div className="order-first md:order-last grid grid-cols-2 gap-3 overflow-hidden">
             <img
-              className="w-full h-40 sm:h-48 object-cover rounded-lg shadow-md transform transition-transform duration-300 hover:scale-110 hover:cursor-pointer"
-              src="https://picsum.photos/seed/hero1/600/400"
+              className="w-full  h-40 sm:h-48 object-cover  rounded-lg shadow-md transform transition-transform duration-300 hover:scale-110 hover:cursor-pointer"
+              src="/images/banner_1.png"
               alt="hero"
             />
             <img
@@ -40,13 +40,13 @@ export default function Hero() {
               alt="hero"
             />
             <img
-              className="w-full h-40 sm:h-48 object-cover rounded-lg shadow-md transform transition-transform duration-300 hover:scale-110"
-              src="https://picsum.photos/seed/hero3/600/400"
+              className="w-full h-40 pt-7 sm:h-48 object-cover rounded-lg shadow-md transform transition-transform duration-300 hover:scale-110"
+              src="/images/banner_2.webp"
               alt="hero"
             />
             <img
               className="w-full h-40 sm:h-48 object-cover rounded-lg shadow-md transform transition-transform duration-300 hover:scale-110"
-              src="https://picsum.photos/seed/hero4/600/400"
+              src="/images/banner_4.png"
               alt="hero"
             />
           </div>
