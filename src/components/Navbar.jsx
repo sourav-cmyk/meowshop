@@ -13,7 +13,7 @@ export default function Navbar({ cartCount, onOpenCart }) {
               <a href="#home" className="hover:text-indigo-600 transition">
                 Home
               </a>
-              <a href="#products" className="hover:text-indigo-600 transition">
+              <a href="#discount" className="hover:text-indigo-600 transition">
                 Shop
               </a>
               <a href="#about" className="hover:text-indigo-600 transition">

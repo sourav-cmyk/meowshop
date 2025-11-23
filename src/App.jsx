@@ -7,6 +7,7 @@ import ProductCard from './components/ProductCard'
 import ProductList from './components/ProductList'
 import DiscountCTA from './components/DiscountCTA'
 import Footer from './components/Footer'
+import About from './components/About'
 
 
 function App() {
@@ -16,6 +17,7 @@ function App() {
     <>
       <Navbar></Navbar>
       <Hero></Hero>
+      <About></About>
       <LatestGallery></LatestGallery>
       <ProductCard></ProductCard>
       <ProductList></ProductList>
