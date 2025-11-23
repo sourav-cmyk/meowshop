@@ -8,7 +8,7 @@ const About = () => {
         {/* Left Text Section */}
         <div>
           {/* Badge */}
-          <span className="px-4 py-1 bg-indigo-100 text-indigo-600 rounded-full text-sm font-semibold">
+          <span className="px-4 py-1 bg-indigo-100 text-indigo-600 rounded-full text-lg font-semibold">
             About Us
           </span>
 
