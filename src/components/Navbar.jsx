@@ -9,7 +9,7 @@ export default function Navbar({ cartCount, onOpenCart }) {
             <div className="text-2xl font-bold text-indigo-600">
               Meow<span className="text-black text-2xl">Shop.</span>
             </div>
-            <nav className="hidden md:flex gap-6 text-gray-700 font-medium">
+            <nav className="hidden md:flex gap-6 text-gray-700 font-medium items-center align-middle ">
               <a href="#home" className="hover:text-indigo-600 transition">
                 Home
               </a>
