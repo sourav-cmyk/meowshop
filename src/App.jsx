@@ -6,6 +6,7 @@ import LatestGallery from './components/LatestGallery'
 import ProductCard from './components/ProductCard'
 import ProductList from './components/ProductList'
 import DiscountCTA from './components/DiscountCTA'
+import Footer from './components/Footer'
 
 
 function App() {
@@ -19,6 +20,7 @@ function App() {
       <ProductCard></ProductCard>
       <ProductList></ProductList>
       <DiscountCTA></DiscountCTA>
+      <Footer></Footer>
     </>
   )
 }
